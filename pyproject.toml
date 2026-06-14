@@ -1,0 +1,14 @@
+[project]
+name = "kancha"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "edge-tts>=7.2.8",
+    "elevenlabs>=2.52.0",
+    "google-genai>=2.6.0",
+    "python-dotenv>=1.2.2",
+    "sounddevice>=0.5.5",
+    "soundfile>=0.14.0",
+]
