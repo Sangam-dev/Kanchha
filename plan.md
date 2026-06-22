@@ -1,23 +1,4 @@
-# KANCHA — Complete AI-Assisted Build Plan
-> Feed this document to any AI coding assistant (Claude, Cursor, Copilot) to generate production-quality code for each module.
-> Read the CONTEXT section before feeding any PHASE prompt. The AI needs full context every time.
 
----
-
-## HOW TO USE THIS DOCUMENT
-
-1. For each file you want to build, copy the **GLOBAL CONTEXT** block first
-2. Then copy the specific **PHASE + FILE prompt** below it
-3. Paste both together into your AI assistant
-4. Review the output against the ACCEPTANCE CRITERIA before moving on
-5. Never skip the acceptance criteria — they are your quality gate
-
----
-
-## GLOBAL CONTEXT
-> Copy this block at the start of EVERY prompt you send to an AI
-
-```
 PROJECT: KANCHA — Multimodal Personalized AI Assistant
 LANGUAGE: Python 3.12
 OS: Linux (Ubuntu)
