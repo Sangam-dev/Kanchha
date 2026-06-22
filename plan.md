@@ -1,4 +1,4 @@
-
+```
 PROJECT: KANCHA — Multimodal Personalized AI Assistant
 LANGUAGE: Python 3.12
 OS: Linux (Ubuntu)
